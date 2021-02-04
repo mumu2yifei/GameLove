@@ -81,23 +81,24 @@
     }
   },
   {
+    "my_comment": "注释10: 也就是第10个,生日快乐",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西瓜",
       "texture": "56S6YgalVMvqWmb6Pt2AFR",
       "rect": [
-        3,
-        4,
-        302,
-        302
+        0,
+        0,
+        355,
+        355
       ],
       "offset": [
         0,
-        -0.5
+        0
       ],
       "originalSize": [
-        308,
-        309
+        355,
+        355
       ],
       "capInsets": [
         0,
@@ -645,6 +646,7 @@
     }
   },
   {
+    "my_comment": "注释8: 大兔子和小兔子 296",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "菠萝",
@@ -652,16 +654,16 @@
       "rect": [
         0,
         0,
-        258,
-        258
+        260,
+        260
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        258,
-        258
+        260,
+        260
       ],
       "capInsets": [
         0,
@@ -753,6 +755,7 @@
     }
   },
   {
+    "my_comment": "注释3: 修改橘子的108-->128",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "橘子",
@@ -760,16 +763,16 @@
       "rect": [
         0,
         0,
-        108,
-        108
+        95,
+        95
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        108,
-        108
+        95,
+        95
       ],
       "capInsets": [
         0,
@@ -807,23 +810,24 @@
     }
   },
   {
+    "my_comment": "注释2: 原始尺寸80, 变成119",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "樱桃",
       "texture": "0cuz27KoVCpb4hmDlhHlr3",
       "rect": [
-        1,
-        1,
-        78,
-        78
+        0,
+        0,
+        66,
+        66
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        80,
-        80
+        66,
+        66
       ],
       "capInsets": [
         0,
@@ -1206,6 +1210,7 @@
     }
   ],
   {
+    "my_comment": "注释5: 中二少年赵拆拆",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "猕猴桃",
@@ -1213,16 +1218,16 @@
       "rect": [
         0,
         0,
-        153,
-        152
+        160,
+        160
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        153,
-        152
+        160,
+        160
       ],
       "capInsets": [
         0,
@@ -1287,6 +1292,7 @@
     }
   },
   {
+    "my_comment": "注释1,第一个是葡萄,像素是82,82",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "葡萄",
@@ -1294,16 +1300,16 @@
       "rect": [
         0,
         0,
-        52,
-        52
+        75,
+        75
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        52,
-        52
+        75,
+        75
       ],
       "capInsets": [
         0,
@@ -1422,23 +1428,24 @@
     }
   },
   {
+    "my_comment": "注释7: 爱你 ",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "桃",
       "texture": "66Wg7JbENIWJdMAlUU8qDn",
       "rect": [
-        3,
-        3,
-        186,
-        186
+        0,
+        0,
+        214,
+        214
       ],
       "offset": [
-        -0.5,
-        0.5
+        0,
+        0
       ],
       "originalSize": [
-        193,
-        193
+        214,
+        214
       ],
       "capInsets": [
         0,
@@ -1503,23 +1510,24 @@
     }
   },
   {
+    "my_comment": "注释11, 最后的",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西瓜1",
       "texture": "50NSZsjfNCNo2Co3Xpeg2c",
       "rect": [
-        2,
-        2,
-        404,
-        404
+        0,
+        0,
+        459,
+        459
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        408,
-        408
+        459,
+        459
       ],
       "capInsets": [
         0,
@@ -1850,6 +1858,7 @@
     }
   },
   {
+    "my_comment": "注释9: 李小兔 349",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "椰子",
@@ -1857,16 +1866,16 @@
       "rect": [
         0,
         0,
-        308,
-        308
+        302,
+        302
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        308,
-        308
+        302,
+        302
       ],
       "capInsets": [
         0,
@@ -6642,8 +6651,8 @@
           "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
         }
       ],
-      "_string": "击败了全球1%玩家",
-      "_N$string": "击败了全球1%玩家",
+      "_string": "击败了全球100%玩家",
+      "_N$string": "击败了全球100%玩家",
       "_fontSize": 35,
       "_N$horizontalAlign": 1,
       "_N$verticalAlign": 1,
@@ -7801,6 +7810,7 @@
     }
   },
   {
+    "my_comment": "注释4: 赵biubiu",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "柠檬",
@@ -7808,16 +7818,16 @@
       "rect": [
         0,
         0,
-        119,
-        119
+        131,
+        131
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        119,
-        119
+        131,
+        131
       ],
       "capInsets": [
         0,
@@ -7982,6 +7992,7 @@
     }
   },
   {
+    "my_comment": "注释6: 想你 225",
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西红柿",
@@ -7989,16 +8000,16 @@
       "rect": [
         0,
         0,
-        183,
-        183
+        184,
+        184
       ],
       "offset": [
         0,
         0
       ],
       "originalSize": [
-        183,
-        183
+        184,
+        184
       ],
       "capInsets": [
         0,

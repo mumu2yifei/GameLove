@@ -2134,6 +2134,7 @@ window.__require = function e(t, n, o) {
           this.moreGameUrl = "http://m.wesane.com/"
         },
         gameOverShowText: function (e, t) {
+          // print(e,"输出分数")
           this.ajaxLoad("http://www.wesane.com/admin.php/Gamescore/saveGamescore", "gameScore=" + e + "&gameId=" + this.gameHttpId + "&gameType=" + t, this.scoreResult)
         },
         gamePV_load: function () {
@@ -3487,7 +3488,8 @@ window.__require = function e(t, n, o) {
             var c = this.fruitNumber,
               r = n.node.getComponent("fruitData").fruitNumber;
             // 控制合成水果的边界值
-            var border = reverseLevelUp ? 1 : 9;
+            // reverseLevelUp ? 1 : 9;
+            var border = myborder;
             // 控制合成水果后的升级逻辑
             var fruitVolume = reverseLevelUp ? -1 : 1;
             // 合成水果，水果下标 0-9 (0 为葡萄，9 为半个西瓜，有一些特殊逻辑)
